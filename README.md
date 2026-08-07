@@ -1,6 +1,9 @@
 # CISM Exam Prep
 
-A installable, offline-capable practice app for the ISACA CISM (Certified
+**Live:** https://philtpaik.github.io/cism/ — open on your phone and
+install it from there (see below).
+
+An installable, offline-capable practice app for the ISACA CISM (Certified
 Information Security Manager) exam. Pure static HTML/CSS/JS — no build step,
 no framework, no dependencies.
 
