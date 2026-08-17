@@ -21,10 +21,14 @@ mapped to the official [CISM Exam Content Outline](https://www.isaca.org/credent
 | 3. Information Security Program | 33% | 76 |
 | 4. Incident Management | 30% | 74 |
 
-(80 of these were hand-written from scratch; the other 200 were migrated in
-from an earlier, non-installable prototype — `cism-practice`, a sibling
-folder now superseded by this project — and converted to this app's
-schema.)
+All 280 are scenario-based judgment questions in the real exam's style — a
+short situational stem plus a "BEST/FIRST/MOST" question, four plausible
+options, and an explanation that also covers why the other three are wrong.
+80 were hand-written from scratch; the other 200 started as a migration from
+an earlier, non-installable prototype (`cism-practice`, a sibling folder now
+superseded by this project) but were rewritten from scratch in Aug 2026 to
+the same scenario-based standard, deduplicated against the hand-written set,
+and remapped across the full outline's task/knowledge statements.
 
 **Important:** these are not reproductions of real/leaked ISACA exam items.
 Using actual secured exam content ("exam dumps") violates ISACA's
